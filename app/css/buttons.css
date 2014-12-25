@@ -1,0 +1,9 @@
+.btn{
+	border: 1px solid;
+	padding: 2px 10px;
+}
+.btn-blue{
+	border-color: #6EAFF9;
+	background: #19B3E7;
+	color: white;
+}
